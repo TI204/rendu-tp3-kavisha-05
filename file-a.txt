@@ -1,1 +1,2 @@
 Contenu du fichier a
+Autre contenu pour a.txt
