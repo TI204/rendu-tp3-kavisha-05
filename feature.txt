@@ -1,1 +1,2 @@
 Contenu du fichier feature.txt
+Autre contenu pour feature.txt
